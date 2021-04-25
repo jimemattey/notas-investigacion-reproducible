@@ -1,2 +1,2 @@
-# notas-investigacion-reproducible
-notas investigación reproducible
+# Notas sobre investigación reproducible y análisis de datos  
+##Reproductibilidad  
