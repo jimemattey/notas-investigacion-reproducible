@@ -2,7 +2,7 @@
 ## Reproductibilidad  
 
 El término **reproductibilidad**(o _reproducibility_, en inglés) se refiere a la capacidad de reproducir un trabajo de investigación, de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodología.  
-Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén disponibles para quienes deseen usarlos (Bezjak et al., 2018). Este concepto está relacionado con el de **replicabilidad**(o _replicability_,en inglés),el cual se refiere a la posibilidad de obtener resultados consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos centrales de la investigación empírica.  
+Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén disponibles para quienes deseen usarlos (Bezjak et al., 2018). Este concepto está relacionado con el de **replicabilidad** (o _replicability_, en inglés), el cual se refiere a la posibilidad de obtener resultados consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos centrales de la investigación empírica.  
 
 ### Importancia de la reproductibilidad  
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:  
@@ -19,7 +19,7 @@ Figura 1. Resultados de la revisión sistemática de archivos Excel suplementari
 
 ## Bibliografía
 
-Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). _Open Science Training Handbook._ Zenodo.https://doi.org/10.5281/ZENODO.1212496
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). _Open Science Training Handbook._ Zenodo. https://doi.org/10.5281/ZENODO.1212496
 
 Claerbout, J. F. (1992). _Análisis de sondeos terrestres:procesamiento versus inversión_. Blackwell Science Inc.
 
